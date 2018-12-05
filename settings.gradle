@@ -1,0 +1,6 @@
+rootProject.name = 'advent-of-code'
+
+include '2018:01'
+include '2018:02'
+include '2018:03'
+include '2018:04'
